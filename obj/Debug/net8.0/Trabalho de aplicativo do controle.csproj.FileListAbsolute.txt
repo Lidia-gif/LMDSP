@@ -1,0 +1,14 @@
+C:\Users\PC-1\source\repos\Trabalho de aplicativo do controle\Trabalho de aplicativo do controle\bin\Debug\net8.0\Trabalho de aplicativo do controle.exe
+C:\Users\PC-1\source\repos\Trabalho de aplicativo do controle\Trabalho de aplicativo do controle\bin\Debug\net8.0\Trabalho de aplicativo do controle.deps.json
+C:\Users\PC-1\source\repos\Trabalho de aplicativo do controle\Trabalho de aplicativo do controle\bin\Debug\net8.0\Trabalho de aplicativo do controle.runtimeconfig.json
+C:\Users\PC-1\source\repos\Trabalho de aplicativo do controle\Trabalho de aplicativo do controle\bin\Debug\net8.0\Trabalho de aplicativo do controle.dll
+C:\Users\PC-1\source\repos\Trabalho de aplicativo do controle\Trabalho de aplicativo do controle\bin\Debug\net8.0\Trabalho de aplicativo do controle.pdb
+C:\Users\PC-1\source\repos\Trabalho de aplicativo do controle\Trabalho de aplicativo do controle\obj\Debug\net8.0\Trabalho de aplicativo do controle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\Trabalho de aplicativo do controle\Trabalho de aplicativo do controle\obj\Debug\net8.0\Trabalho de aplicativo do controle.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\Trabalho de aplicativo do controle\Trabalho de aplicativo do controle\obj\Debug\net8.0\Trabalho de aplicativo do controle.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\Trabalho de aplicativo do controle\Trabalho de aplicativo do controle\obj\Debug\net8.0\Trabalho de aplicativo do controle.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\Trabalho de aplicativo do controle\Trabalho de aplicativo do controle\obj\Debug\net8.0\Trabalho de aplicativo do controle.dll
+C:\Users\PC-1\source\repos\Trabalho de aplicativo do controle\Trabalho de aplicativo do controle\obj\Debug\net8.0\refint\Trabalho de aplicativo do controle.dll
+C:\Users\PC-1\source\repos\Trabalho de aplicativo do controle\Trabalho de aplicativo do controle\obj\Debug\net8.0\Trabalho de aplicativo do controle.pdb
+C:\Users\PC-1\source\repos\Trabalho de aplicativo do controle\Trabalho de aplicativo do controle\obj\Debug\net8.0\Trabalho de aplicativo do controle.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\Trabalho de aplicativo do controle\Trabalho de aplicativo do controle\obj\Debug\net8.0\ref\Trabalho de aplicativo do controle.dll
